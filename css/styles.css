@@ -1,0 +1,18 @@
+bodi {
+
+}
+.list {
+    list-style: none;
+}
+.link {
+    text-decoration: none;
+}
+/* ---------------HEADER---------------------- */
+.logo {}
+
+.Studio {}
+
+.nav-list {}
+
+.nav-item {}
+.nav-link:hover, .nav-link:focus
